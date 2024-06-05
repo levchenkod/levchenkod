@@ -1,3 +1,6 @@
+<a aligh="left" href="https://levchenkod.com" target="_blank">![Slice 1](https://github.com/levchenkod/levchenkod/assets/3509224/198abadd-7289-4621-9d23-67f32483b9e7)</a>
+
+
 # Dmytro Levchenko
 ### Making web applications for businesses and fun!
 
