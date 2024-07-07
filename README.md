@@ -1,6 +1,24 @@
 <a aligh="left" href="https://levchenkod.com?utm_source=readme_cover&utm_medium=git&utm_campaign=profile" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://di32poo029j0a.cloudfront.net/git/git-cover-dark-short.png?q2"><img alt="Cover image that says I develop moder javascript web applications" src="https://di32poo029j0a.cloudfront.net/git/git-cover-light-short.png?q2" title="Click to visit levchenkod.com"/></picture>
 </a>
 
+
+# Dmytro Levchenko
+Front-end Developer with 10+ years of experience and a focus on React and Next.js web applications and User Interface design background. <a aligh="left" href="https://levchenkod.com/connect?utm_source=connect_link&utm_medium=git&utm_campaign=profile" target="_blank">Contact</a>
+
+
+## Experiments
+
+
+<a aligh="left" href="https://codepen.io/levchenkod/full/oNRWebv" target="_blank">
+ <img alt="Two blurred UI elements" src="https://di32poo029j0a.cloudfront.net/git/git-codepen-sparklify.png" title="Click to open 'Hover to reveal' experient" width="33%" />
+</a>
+<a aligh="left" href="https://codepen.io/levchenkod/full/LYvLXxN" target="_blank">
+ <img alt="Two blurred UI elements" src="https://di32poo029j0a.cloudfront.net/git/git-codepen-ar-notif.png" title="Click to open 'AR animation' experient" width="33%" />
+</a>
+<a aligh="left" href="https://codepen.io/levchenkod/full/ExJbLry" target="_blank">
+ <img alt="Two blurred UI elements" src="https://di32poo029j0a.cloudfront.net/git/git-codepen-3pb.png" title="Click to open '3 body problem countdown' experient" width="33%" />
+</a>
+
 ## Skills
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://di32poo029j0a.cloudfront.net/skill-icons/skill-mongodb-dark.png"><img alt="mongodb logotype" src="https://di32poo029j0a.cloudfront.net/skill-icons/skill-mongodb.png" width="42" height="42" title="MongoDB - NoSQL database program"/></picture>
@@ -33,24 +51,6 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://di32poo029j0a.cloudfront.net/skill-icons/skill-ts-dark.png"><img alt="ts logotype" src="https://di32poo029j0a.cloudfront.net/skill-icons/skill-ts.png" width="42" height="42" title="TypeScript - Typed superset of JavaScript"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://di32poo029j0a.cloudfront.net/skill-icons/skill-vercel-dark.png"><img alt="vercel logotype" src="https://di32poo029j0a.cloudfront.net/skill-icons/skill-vercel.png" width="42" height="42" title="Vercel - Platform for static sites and Serverless Functions"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://di32poo029j0a.cloudfront.net/skill-icons/skill-webpack-dark.png"><img alt="webpack logotype" src="https://di32poo029j0a.cloudfront.net/skill-icons/skill-webpack.png" width="42" height="42" title="Webpack - Module bundler for JavaScript applications"/></picture><picture><source media="(prefers-color-scheme: dark)" srcset="https://di32poo029j0a.cloudfront.net/skill-icons/skill-socketio-dark.png"><img alt="socket.io logotype" src="https://di32poo029j0a.cloudfront.net/skill-icons/skill-socketio.png" width="42" height="42" title="Socket.IO - Real-time bidirectional event-based communication"/></picture>
-
-
-# Dmytro Levchenko
-Front-end Developer with 10+ years of experience and a focus on React and Next.js web applications and User Interface design background. <a aligh="left" href="https://levchenkod.com/connect?utm_source=connect_link&utm_medium=git&utm_campaign=profile" target="_blank">Contact</a>
-
-
-## Experiments
-
-
-<a aligh="left" href="https://codepen.io/levchenkod/full/oNRWebv" target="_blank">
- <img alt="Two blurred UI elements" src="https://di32poo029j0a.cloudfront.net/git/git-codepen-sparklify.png" title="Click to open 'Hover to reveal' experient" width="33%" />
-</a>
-<a aligh="left" href="https://codepen.io/levchenkod/full/LYvLXxN" target="_blank">
- <img alt="Two blurred UI elements" src="https://di32poo029j0a.cloudfront.net/git/git-codepen-ar-notif.png" title="Click to open 'AR animation' experient" width="33%" />
-</a>
-<a aligh="left" href="https://codepen.io/levchenkod/full/ExJbLry" target="_blank">
- <img alt="Two blurred UI elements" src="https://di32poo029j0a.cloudfront.net/git/git-codepen-3pb.png" title="Click to open '3 body problem countdown' experient" width="33%" />
-</a>
 
 
 
