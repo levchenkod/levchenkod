@@ -55,7 +55,7 @@ Front-end Developer with 10+ years of experience and a focus on React and Next.j
 
 ## Links
 
-<a aligh="left" href="https://levchenkod.com?utm_source=readme_link&utm_medium=git&utm_campaign=profile" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://di32poo029j0a.cloudfront.net/skill-icons/skill-web-dark-fit.png"><img alt="chain icon" src="https://di32poo029j0a.cloudfront.net/skill-icons/skill-web-fit.png" width="14" height="14" /></picture> Portfolio
+<a aligh="left" href="https://levchenkod.com?utm_source=readme_link&utm_medium=git&utm_campaign=profile" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://di32poo029j0a.cloudfront.net/skill-icons/skill-web-dark-fir.png"><img alt="chain icon" src="https://di32poo029j0a.cloudfront.net/skill-icons/skill-web-fit.png" width="14" height="14" /></picture> Portfolio
 </a>
 
 <a aligh="left" href="https://www.linkedin.com/in/levchenkod/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://di32poo029j0a.cloudfront.net/skill-icons/skill-linkedin-dark-fit.png"><img alt="chain icon" src="https://di32poo029j0a.cloudfront.net/skill-icons/skill-linkedin-fit.png" width="14" height="14" /></picture> LinkedIn
