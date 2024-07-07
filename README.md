@@ -1,4 +1,4 @@
-<a aligh="left" href="https://levchenkod.com?utm_source=readme_cover&utm_medium=git&utm_campaign=profile" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://di32poo029j0a.cloudfront.net/git/git-cover-dark.png?q2"><img alt="Cover image that says I develop moder javascript web applications" src="https://di32poo029j0a.cloudfront.net/git/git-cover-light.png?q2" title="Click to visit levchenkod.com"/></picture>
+<a aligh="left" href="https://levchenkod.com?utm_source=readme_cover&utm_medium=git&utm_campaign=profile" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://di32poo029j0a.cloudfront.net/git/git-cover-dark-short.png?q2"><img alt="Cover image that says I develop moder javascript web applications" src="https://di32poo029j0a.cloudfront.net/git/git-cover-light-short.png?q2" title="Click to visit levchenkod.com"/></picture>
 </a>
 
 
