@@ -10,9 +10,13 @@ Front-end Developer with 10+ years of experience and a focus on React and Next.j
 ## Experiments
 
 
-<a aligh="left" href="https://codepen.io/levchenkod/full/oNRWebv" target="_blank">
- <img alt="Two blurred UI elements" src="https://di32poo029j0a.cloudfront.net/git/git-codepen-sparklify.png" title="Click to open 'Hover to reveal' experient" width="33%" />
+
+<a aligh="left" href="https://codepen.io/levchenkod/full/PogmRYE" target="_blank">
+ <img alt="Interface highlighted by flashlight" src="https://di32poo029j0a.cloudfront.net/git/git-codepen-blackout.png" title="Click to open 'Blackout UI' experient" width="33%" />
 </a>
+<!-- <a aligh="left" href="https://codepen.io/levchenkod/full/oNRWebv" target="_blank">
+ <img alt="Two blurred UI elements" src="https://di32poo029j0a.cloudfront.net/git/git-codepen-sparklify.png" title="Click to open 'Hover to reveal' experient" width="33%" />
+</a> -->
 <a aligh="left" href="https://codepen.io/levchenkod/full/LYvLXxN" target="_blank">
  <img alt="Two blurred UI elements" src="https://di32poo029j0a.cloudfront.net/git/git-codepen-ar-notif.png" title="Click to open 'AR animation' experient" width="33%" />
 </a>
