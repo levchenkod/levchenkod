@@ -4,7 +4,7 @@
 
 
 # Dmytro Levchenko
-Front-end Developer with 10+ years of experience and a focus on React and Next.js web applications and User Interface design background. <a aligh="left" href="https://levchenkod.com/connect?utm_source=connect_link&utm_medium=git&utm_campaign=profile" target="_blank">Contact</a>
+Full-stack Developer with 10+ years of experience and a focus on React and Next.js web applications and a User Interface design background. <a aligh="left" href="https://levchenkod.com/connect?utm_source=connect_link&utm_medium=git&utm_campaign=profile" target="_blank">Contact</a>
 
 
 ## Experiments
